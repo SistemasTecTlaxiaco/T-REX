@@ -1,1 +1,1 @@
-<?php require_once("index.htghhdssml")?>
+<?php require_once("index.html")?>
