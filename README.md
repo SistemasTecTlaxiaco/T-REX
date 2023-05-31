@@ -17,9 +17,12 @@ real.
 
 # OBJETIVOS ESPECIFICOS :mag:
 • Promover el desarrollo de objetos de aprendizaje con Realidad Aumentada
+
 • Difundir el uso de dispositivos móviles y el desarrollo de aplicaciones de RA 
+
 • Realizar el diseño de un prototipo de realidad aumentada con la ayuda del 
 desarrollo de software
+
 • Desarrollar el objeto deseado en realidad aumentada para poder visualizarlo 
 de diferentes ángulos
 
@@ -32,9 +35,13 @@ combinación de información digital en tiempo real y el campo de visión de una
 persona.
 
 # REQUISITOS :heavy_check_mark:
+
 • Internet 
-• Navegador 
+
+• Navegador
+
 • Marcador (T-Rex)
+
 • Dispositivo con cámara 
 
 
