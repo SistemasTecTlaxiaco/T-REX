@@ -6,3 +6,34 @@ La Realidad Aumentada (RA) es una tecnología que complementa la percepción e i
 
 Desarrollar un prototipo de una aplicación de Realidad Aumentada, tiene como objetivo explorar y analizar la aplicación de la realidad aumentada en marcadores por posición, que consiste en la utilización de marcadores físicos o puntos de referencia en el mundo real para posicionar y superponer objetos virtuales en tiempo real.
 
+# OBJETIVOS ESPECIFICOS
+
+•	Promover el desarrollo de objetos de aprendizaje con Realidad Aumentada
+
+•	Difundir el uso de dispositivos móviles y el desarrollo de aplicaciones de RA 
+
+•	Realizar el diseño de un prototipo de realidad aumentada con la ayuda del desarrollo de software
+
+•	Desarrollar el objeto deseado en realidad aumentada para poder visualizarlo de diferentes ángulos
+
+# JUSTIFICACION
+
+La Realidad Aumentada permite que el usuario perciba el entorno real “aumentado” con algunos objetos virtuales, es decir, creados por computadora; con el objetivo de favorecer el desarrollo de competencias disciplinares,  considerando que los sistemas de RA se basan en la generación de imágenes nuevas a partir de la combinación de información digital en tiempo real y el campo de visión de una persona.
+
+# REQUISITOS 
+
+•	Internet 
+
+•	Navegador 
+
+•	Marcador (T-Rex)
+
+•	Dispositivo con cámara
+
+
+# EQUIPO DE DESARROLLO 
+
+![image](https://github.com/SistemasTecTlaxiaco/T-REX/assets/79929272/7bbb19d4-13ed-4c22-900f-60bdf75e5a02)
+
+
+
