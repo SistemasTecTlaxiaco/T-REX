@@ -63,7 +63,7 @@ https://drive.google.com/file/d/15QcskNeMnk_WN-0F3fzBN2AK9SVbH1k4/view?usp=drive
     <td style="width: 33%;">Programador</td>
   </tr>
   <tr>
-    <td style="width: 33%;">Abraham Reyes Ortiz</td>
+    <td style="width: 33%;">Compa lupe</td>
     <td style="width: 33%;">Programador</td>
   </tr>
   <tr>
