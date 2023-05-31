@@ -304,7 +304,7 @@
 
   var arreglovoz = ['hola t rex',
     'gracias t rex',
-    'eso es todo por ahora'
+    'eso es todo por ahora',
     't rex ¿cuando te descubrieron?',
     't rex ¿en que año existias?',
     't rex quien te descubrio',
@@ -386,14 +386,14 @@
 
     if (voz === 't rex ¿cuando te descubrieron?') {
       console.log("t rex cuenta su descubrimento!");
-      let utterance = new SpeechSynthesisUtterance('El primer descubrimiento de T. Rex registrado fue en 1902, justamente en Montana, por el paleontólogo Barnum Brown.'
+      let utterance = new SpeechSynthesisUtterance('El primer descubrimiento de T. Rex registrado fue en 1902, justamente en Montana, por el paleontólogo Barnum Brown.')
       utterance.lang = 'es-MX'
       speechSynthesis.speak(utterance)
     }
 
     if (voz === 't rex ¿en que año existias?') {
       console.log("t rex, cuenta su existencia");
-      let utterance = new SpeechSynthesisUtterance('El Tiranosaurio Rex vivió hace 68 y 66 millones de años en las últimas etapas del período Cretácico distribuidos por Norteamérica occidental.');
+      let utterance = new SpeechSynthesisUtterance('El Tiranosaurio Rex vivió hace 68 y 66 millones de años en las últimas etapas del período Cretácico distribuidos por Norteamérica occidental.')
       utterance.lang = 'es-MX'
       speechSynthesis.speak(utterance)
     }
