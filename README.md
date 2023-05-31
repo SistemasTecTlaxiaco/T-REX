@@ -37,8 +37,6 @@ persona.
 • Marcador (T-Rex)
 • Dispositivo con cámara 
 
-# EQUIPO DE DESARROLLO
-![image](https://github.com/SistemasTecTlaxiaco/T-REX/assets/79929272/ebeb28f5-427a-4c05-91d6-666b6a21dd41)
 
 # COMO UTILIZAR LA APLICACIÓN
 https://drive.google.com/file/d/15QcskNeMnk_WN-0F3fzBN2AK9SVbH1k4/view?usp=drivesdk
@@ -50,23 +48,27 @@ https://drive.google.com/file/d/15QcskNeMnk_WN-0F3fzBN2AK9SVbH1k4/view?usp=drive
     <td style="width: 33%;">Rol</td>
   </tr>
   <tr>
-    <td style="width: 33%;">Jaciel García Santiago</td>
+    <td style="width: 33%;">Christopher Emmanuel Mayoral Velasco</td>
     <td style="width: 33%;">Lider del proyecto</td>
   </tr>
   <tr>
-    <td style="width: 33%;">Emmanuel Riaño Hernández</td>
+    <td style="width: 33%;">Duilio Ruben Aquino Lopez</td>
     <td style="width: 33%;">Programador</td>
   </tr>
   <tr>
-    <td style="width: 33%;">Antonio Cruz Chavez</td>
+    <td style="width: 33%;">Abraham Reyes Ortiz</td>
+    <td style="width: 33%;">Programador</td>
+  </tr>
+  <tr>
+    <td style="width: 33%;">Arturo Angon Jose </td>
     <td style="width: 33%;">Tester</td>
   </tr>
   <tr>
-    <td style="width: 33%;">Marcos Jonathan García Núñez</td>
+    <td style="width: 33%;">Rigoberto Suridai Pascuel Reyes</td>
     <td style="width: 33%;">Diseñador</td>
   </tr>
   <tr>
-    <td style="width: 33%;">David Juan Feria Ortiz</td>
+    <td style="width: 33%;">Maria Concepcion Garcia Castro</td>
     <td style="width: 33%;">Analista</td>
   </tr>
 </table>
